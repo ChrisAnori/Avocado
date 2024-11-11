@@ -34,7 +34,7 @@ Dentro de Toolkit existe el README donde indicamos el funcionamiento.
 
 # 2017 Septiembre : Huracán Irma
 https://www.latimes.com/espanol/eeuu/articulo/2017-09-14/efe-3379551-13366931-20170914
-<img src="https://github.com/largouuuxyz/Avocado/blob/cristian/images/trump.png" alt="Gráfico de resultados" width="500"/>
+<img src="https://github.com/largouuuxyz/Avocado/blob/cristian/images/irma.jpg" alt="Gráfico de resultados" width="500"/>
 # Respuesta de Trump a Mexico en Febrero subiendo los impuestos a productos de Mexico
 https://www.elmundo.es/internacional/2017/01/26/588a0b0f22601da9468b45b8.html
 <img src="https://github.com/largouuuxyz/Avocado/blob/cristian/images/trump.png" alt="Gráfico de resultados" width="500"/>
@@ -157,7 +157,7 @@ Se contemplan las variaciones en las preferencias de consumidor
 El comportamiento de ventas demuestra qe no importa que tipo de consmidor sea a la hora del volumen que consume ya que en todos los casos se comporta igual.
 
 ### 4.5 Retención de Ventas por Mes desde la Primera Venta
-<img src="img_avo/4_5.png" alt="Gráfico de resultados" width="500"/>
+<img src="https://github.com/largouuuxyz/Avocado/blob/cristian/images/4_5.png" alt="Gráfico de resultados" width="500"/>
 
 ---
 
@@ -185,7 +185,7 @@ Si la pendiente es negativa, sugiere que un mayor volumen total de ventas está 
 Se ve que el modelo se ajusta muy bien, excepto el trimestre 1 del 2016 , que puede ser debido por el hecho del evento detectado de la SUPERBOWL , el cual genera una expectativa dentro del mercado que el modelo no es capaz de predecir
 
 ### 5.4 Predicciones Trimestral
-<img src="img_avo/5_4.png" alt="Gráfico de resultados" width="500"/>
+<img src="https://github.com/largouuuxyz/Avocado/blob/cristian/images/5_4.png" alt="Gráfico de resultados" width="500"/>
 
 Modelo de Regresión Lineal - R^2: 1.0, RMSE: 2.1259152388627147e-16
 Modelo de Regresión Polinómica - R^2: 1.0, RMSE: 1.5700924586837752e-16
@@ -198,29 +198,29 @@ Características demasiado predictivas: Si los datos son muy lineales o tienen u
 Regularización en Ridge: Aunque el modelo Ridge utiliza regularización, en casos de sobreajuste, esto puede no ser suficiente,dependiendo de los datos.
 
 ### 5.5 Predicciones Trimestral
-<img src="img_avo/5_5.png" alt="Gráfico de resultados" width="500"/>
+<img src="https://github.com/largouuuxyz/Avocado/blob/cristian/images/5_5.png" alt="Gráfico de resultados" width="500"/>
 Modelo Lineal - R^2: -2.06982131101471, RMSE: 0.12909294762093804
 Modelo Polinómico - R^2: -2.06982131101471, RMSE: 0.12909294762093804
 
 Observamos la confirmación de una de las hipotesis 2017 
 
 ### 5.7 Análisis de Coeficientes de Regresión Múltiple
-<img src="img_avo/5_7.png" alt="Gráfico de resultados" width="500"/>
+<img src="https://github.com/largouuuxyz/Avocado/blob/cristian/images/5_7.png" alt="Gráfico de resultados" width="500"/>
 
 Explorar un modelo más complejo: Tal vez probar con modelos no lineales o más complejos (como árboles de decisión, Random Forest, o incluso redes neuronales) si el conjunto de datos es suficientemente grande.
 
 ### 5.8 Modelos de Regresión para Diferenciar Volúmenes de Ventas:
-<img src="img_avo/5_8.png" alt="Gráfico de resultados" width="500"/>
+<img src="https://github.com/largouuuxyz/Avocado/blob/cristian/images/5_8.png" alt="Gráfico de resultados" width="500"/>
 
 Explorar un modelo más complejo: Tal vez probar con modelos no lineales o más complejos (como árboles de decisión, Random Forest, o incluso redes neuronales) si el conjunto de datos es suficientemente grande.
 
 ### 5.9 Anñalisis de la Influencia de las Ventas Totales en el Precio Promedio:
-<img src="img_avo/5_9.png" alt="Gráfico de resultados" width="500"/>
+<img src="https://github.com/largouuuxyz/Avocado/blob/cristian/images/5_9.png" alt="Gráfico de resultados" width="500"/>
 
 Explorar un modelo más complejo: Tal vez probar con modelos no lineales o más complejos (como árboles de decisión, Random Forest, o incluso redes neuronales) si el conjunto de datos es suficientemente grande.
 
 ### 5.10 Regresión para Predecir el Precio Promedio Según el Volumen de Aguacates por Tipo:
-<img src="img_avo/5_10.png" alt="Gráfico de resultados" width="500"/>
+<img src="https://github.com/largouuuxyz/Avocado/blob/cristian/images/5_10.png" alt="Gráfico de resultados" width="500"/>
 
 Explorar un modelo más complejo: Tal vez probar con modelos no lineales o más complejos (como árboles de decisión, Random Forest, o incluso redes neuronales) si el conjunto de datos es suficientemente grande.
 
