@@ -159,7 +159,7 @@ Se contemplan las variaciones en las preferencias de consumidor
 El comportamiento de ventas demuestra qe no importa que tipo de consumidor sea a la hora del volumen que consume ya que en todos los casos se comporta igual.
 
 ### 4.5 Retención de Ventas por Mes desde la Primera Venta
-<img src="img_avo/4_5.png" alt="Gráfico de resultados" width="500"/>
+<img src="https://github.com/largouuuxyz/Avocado/blob/cristian/images/4_5.png" alt="Gráfico de resultados" width="500"/>
 
 ---
 
